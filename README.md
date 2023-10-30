@@ -18,3 +18,4 @@ $ npm run start:prod
 ```
 ## Documentation
 http:://localhost:{PORT}}/api
+![API](./images/apis.png)
